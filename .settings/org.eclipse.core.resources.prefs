@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/analysis/CustomAnalyzer.java=UTF-8
+encoding//src/index/BuildIndex.java=UTF-8
+encoding//src/index/CorpusStats.java=UTF-8
+encoding//src/search/SearchIndex.java=UTF-8
+encoding//src/search/TrecBatchSearch.java=UTF-8
+encoding//src/utils/SearchResult.java=UTF-8
+encoding//src/utils/Utils.java=UTF-8
